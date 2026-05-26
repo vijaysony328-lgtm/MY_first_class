@@ -1,0 +1,6 @@
+azurerm"Storage_account""Name" {
+name ="st1245"
+location = "westus"
+resource_goup_name = "rg1"
+account_tier ="Standard"
+account_replication_type ="LRS"
